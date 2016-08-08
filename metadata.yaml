@@ -1,0 +1,32 @@
+_repo: Quelques--crivains-fran-aisFlaubert-Zola-Hugo-Goncourt-Huysmans-etc._12289
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hennequin, Emile
+    alias: Hennequin, Émile
+    birthdate: 1858
+    deathdate: 1888
+    gutenberg_agent_id: '4298'
+    url: http://www.gutenberg.org/2009/agents/4298
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12289'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French literature -- 19th century -- History and criticism'
+- GITenberg
+tableOfContents: 'Gustave Flaubert: Étude analytique -- Émile Zola -- Victor Hugo
+  -- Les romans de M. Edm. de Goncourt -- J.K. Huysmans -- La "Course à la mort"
+  [par M. Edouard Rod] -- Panurge -- De la peinture: à propos d''une lettre de M.
+  Raffaëlli.'
+title: 'Quelques écrivains français
+
+  Flaubert, Zola, Hugo, Goncourt, Huysmans, etc.'
+url: http://www.gutenberg.org/ebooks/12289
